@@ -3,4 +3,3 @@ def ShowProjectInfo():
     print("Royal Crown Defence game")
 
     print("by pyGreenTeam")
-
